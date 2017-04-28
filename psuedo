@@ -1,0 +1,64 @@
+users <-- recipes <-- steps <-- ingredients
+
+react-redux thoughts
+
+app.js holds all components and handleSubmit function
+
+baker.js holds baker info eports baker input value and id
+
+recipes.js holds recipe Name 
+
+steps.js exports id
+
+ingredients.js holds ingredient info and add button with onClick 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+recipes[
+	{
+		id: 1
+		name: recipe
+		userid: 
+	}
+]
+
+users [
+	{
+		id: 1
+		name: username
+		recipeId: 
+	}
+]
+
+ingredients [
+	{
+		id: 1
+		ingredient: fsfsafs
+		recipeId:1
+	},
+		id: 2
+		ingredient: adfadf
+		redipeId:1
+]
+
+steps [
+	{
+
+	}
+]
+
